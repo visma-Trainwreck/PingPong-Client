@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46624b21-dd65-45c2-b692-3fd849f5af78" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clienttest/core.clj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clienttest/host.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clienttest/gamestats.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/clienttest/game.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/clienttest/gamestats.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/clienttest/host.clj" />
+        <option value="$PROJECT_DIR$/src/clienttest/game.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="625" />
+    <option name="width" value="1300" />
+    <option name="height" value="1400" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="clienttest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clienttest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clienttest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clienttest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clienttest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clienttest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clienttest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551339893367" />
+    <property name="cursive.last.file.extension.C\:/Users/peter.l.rasmussen/Clojure Test Projects/clienttest/src" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\peter.l.rasmussen\Clojure Test Projects\clienttest\src\clienttest" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1551340498387">{:repl-history {:ide [], :local [{:command &quot;(def nametest \&quot;peter\&quot;)&quot;, :offset 13, :ns &quot;clienttest.host&quot;} {:command &quot;(.substring (java.lang.String. nametest) 0 1)&quot;, :offset 44, :ns &quot;clienttest.host&quot;} {:command &quot;(.substring (java.lang.String. nametest) 1 (- (count str) 1))&quot;, :offset 60, :ns &quot;clienttest.host&quot;} {:command &quot;(.substring (java.lang.String. nametest) 1 (- (count nametest) 1))&quot;, :offset 61, :ns &quot;clienttest.host&quot;} {:command &quot;(def listtest \&quot;{:role \\\&quot;player\\\&quot; }\&quot;)&quot;, :offset 36, :ns &quot;clienttest.host&quot;} {:command &quot;(println listtest)&quot;, :offset 17, :ns &quot;clienttest.host&quot;} {:command &quot;(clojure.edn/read-string (str \&quot;{\&quot; listtest \&quot;}\&quot;))&quot;, :offset 42, :ns &quot;clienttest.host&quot;} {:command &quot;(clojure.edn/read-string (str listtest))&quot;, :offset 30, :ns &quot;clienttest.host&quot;} {:command &quot;def mock-state\n'({:role \&quot;player\&quot; :type \&quot;entity\&quot; :color 255 :x 20 :y 100 :velX 6 :velY 6}\n   {:role \&quot;ball\&quot; :type \&quot;object\&quot; :color 255 :x 200 :y 200 :velX 5 :velY 5}\n   {:role \&quot;enemy\&quot; :type \&quot;entity\&quot; :color 255 :x 760 :y 200 :velX 6 :velY 6}\n   {:role \&quot;score\&quot; :type \&quot;logic\&quot; :player1 0 :player2 0}))&quot;, :offset 294, :ns &quot;clienttest.host&quot;} {:command &quot;(def mock-state\n'({:role \&quot;player\&quot; :type \&quot;entity\&quot; :color 255 :x 20 :y 100 :velX 6 :velY 6}\n   {:role \&quot;ball\&quot; :type \&quot;object\&quot; :color 255 :x 200 :y 200 :velX 5 :velY 5}\n   {:role \&quot;enemy\&quot; :type \&quot;entity\&quot; :color 255 :x 760 :y 200 :velX 6 :velY 6}\n   {:role \&quot;score\&quot; :type \&quot;logic\&quot; :player1 0 :player2 0}))&quot;, :offset 1, :ns &quot;clienttest.host&quot;} {:command &quot;(clojure.edn/read-string (str mock-state))&quot;, :offset 40, :ns &quot;clienttest.host&quot;} {:command &quot;(ns clienttest.host\n  (:require [clojure.java.io :as io]\n            [clienttest.game :as game]\n            [ring.adapter.jetty :as srv])\n  (:import\n    (java.io PrintWriter InputStreamReader BufferedReader)\n    (java.net Socket)))&quot;, :offset 231, :ns &quot;clienttest.host&quot;} {:command &quot;(ns clienttest.host\n  (:require [clojure.java.io :as io]\n            [clienttest.game :as game]\n            [ring.adapter.jetty :as srv]\n            [org.httpkit.client :as http])\n  (:import\n    (java.io PrintWriter InputStreamReader BufferedReader)\n    (java.net Socket)))&quot;, :offset 273, :ns &quot;clienttest.host&quot;} {:command &quot;(http/get \&quot;localhost:9999/c\&quot;)&quot;, :offset 27, :ns &quot;clienttest.host&quot;} {:command &quot;(http/get \&quot;localhost:9999/showgame\&quot;)&quot;, :offset 34, :ns &quot;clienttest.host&quot;} {:command &quot;(def options {:timeout 200             ; ms\n              :basic-auth [\&quot;user\&quot; \&quot;pass\&quot;]\n              :query-params {:param \&quot;value\&quot; :param2 [\&quot;value1\&quot; \&quot;value2\&quot;]}\n              :user-agent \&quot;User-Agent-string\&quot;\n              :headers {\&quot;X-Header\&quot; \&quot;Value\&quot;}})&quot;, :offset 250, :ns &quot;clienttest.host&quot;} {:command &quot;(http/get \&quot;http://host.com/path\&quot; options\n          (fn [{:keys [status headers body error]}] ;; asynchronous response handling\n            (if error\n              (println \&quot;Failed, exception is \&quot; error)\n              (println \&quot;Async HTTP GET: \&quot; status))))&quot;, :offset 255, :ns &quot;clienttest.host&quot;} {:command &quot;(http/get \&quot;localhost:9999/cmd\&quot; options\n          (fn [{:keys [status headers body error]}] ;; asynchronous response handling\n            (if error\n              (println \&quot;Failed, exception is \&quot; error)\n              (println \&quot;Async HTTP GET: \&quot; status))))&quot;, :offset 29, :ns &quot;clienttest.host&quot;} {:command &quot;(http/get \&quot;localhost:9999/cmd\&quot; {:keepalive 30000})&quot;, :offset 32, :ns &quot;clienttest.host&quot;} {:command &quot;(http/get \&quot;localhost:9999/cmd\&quot;)&quot;, :offset 30, :ns &quot;clienttest.host&quot;} {:command &quot;(do (http/get \&quot;localhost:9999/cmd\&quot;)) &quot;, :offset 35, :ns &quot;clienttest.host&quot;} {:command &quot;(let [response1 (http-kit/get \&quot;localhost:9999/cmd\&quot;)\n      response2 (http-kit/get \&quot;http://clojure.org/\&quot;)]\n  ;; Handle responses one-by-one, blocking as necessary\n  ;; Other keys :headers :body :error :opts\n  (println \&quot;response1's status: \&quot; (:status @response1))\n  (println \&quot;response2's status: \&quot; (:status @response2)))&quot;, :offset 249, :ns &quot;clienttest.host&quot;} {:command &quot;(let [response1 (http/get \&quot;localhost:9999/cmd\&quot;)\n      response2 (http/get \&quot;http://clojure.org/\&quot;)]\n  ;; Handle responses one-by-one, blocking as necessary\n  ;; Other keys :headers :body :error :opts\n  (println \&quot;response1's status: \&quot; (:status @response1))\n  (println \&quot;response2's status: \&quot; (:status @response2)))&quot;, :offset 21, :ns &quot;clienttest.host&quot;} {:command &quot;drop-last&quot;, :offset 9, :ns &quot;clienttest.host&quot;} {:command &quot;\&quot;hej\&quot;&quot;, :offset 4, :ns &quot;clienttest.host&quot;} {:command &quot;(ns clienttest.host\n  (:require [clojure.java.io :as io]\n            [clienttest.game :as game]\n            [org.httpkit.client :as http])\n  (:import\n    (java.io PrintWriter InputStreamReader BufferedReader)\n    (java.net Socket)))&quot;, :offset 232, :ns &quot;clienttest.host&quot;} {:command &quot;(let [response (http/get \&quot;localhost:9999/cmd\&quot;)]) &quot;, :offset 47, :ns &quot;clienttest.host&quot;} {:command &quot;(let [response (http/get \&quot;localhost:9999/cmd\&quot;)]\n  (println (:status response))) &quot;, :offset 76, :ns &quot;clienttest.host&quot;} {:command &quot;(let [response (http/get \&quot;localhost:8082/cmd\&quot;)]\n  (println (:status response))) &quot;, :offset 40, :ns &quot;clienttest.host&quot;} {:command &quot;(let [response (http/get \&quot;http://www.localhost:8082/cmd\&quot;)]\n  (println (:status response))) &quot;, :offset 55, :ns &quot;clienttest.host&quot;} {:command &quot;(let [response (http/get \&quot;http://www.google.com\&quot;)]\n  (println (:status response))) &quot;, :offset 47, :ns &quot;clienttest.host&quot;} {:command &quot;((http/get \&quot;http://www.google.com\&quot;) {:debug true} )&quot;, :offset 1, :ns &quot;clienttest.host&quot;} {:command &quot;(http/get \&quot;http://www.google.com\&quot; {:debug true} )&quot;, :offset 33, :ns &quot;clienttest.host&quot;} {:command &quot;loc&quot;, :offset 3} {:command &quot;(http/get \&quot;http://www.localhost:8082/cmd\&quot; {:debug true} )&quot;, :offset 40, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;localhost:8082/cmd\&quot;)&quot;, :offset 13, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;google.com\&quot;)&quot;, :offset 23, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;http://www.google.com\&quot;)&quot;, :offset 34, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;www.localhost:8082\&quot;)&quot;, :offset 31, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;www.localhost:8082/cmd\&quot;)&quot;, :offset 35, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;http://www.localhost:8082/cmd\&quot;)&quot;, :offset 42, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;http://www.127.0.0.1:8082/cmd\&quot;)&quot;, :offset 33, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;http://127.0.0.1:8082/cmd\&quot;)&quot;, :offset 20, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;http://127.0.0.1:8082/showgame\&quot;)&quot;, :offset 43, :ns &quot;clienttest.host&quot;} {:command &quot;(client/get \&quot;http://127.0.0.1:8082/showgame\&quot; {:body})&quot;, :offset 51, :ns &quot;clienttest.host&quot;} {:command &quot;(:body (client/get \&quot;http://127.0.0.1:8082/showgame\&quot;)) &quot;, :offset 52, :ns &quot;clienttest.host&quot;} {:command &quot;(:body (client/get \&quot;http://127.0.0.1:8082/showgame\&quot;))&quot;, :offset 53, :ns &quot;clienttest.host&quot;} {:command &quot;(clojure.edn/read-string (str (:body (client/get \&quot;http://127.0.0.1:8082/showgame\&quot;))))&quot;, :offset 83, :ns &quot;clienttest.host&quot;} {:command &quot;(defn client_game_start\n  [_]\n  #_(swap! moo (fn [_] statelist))\n  (println @moo)\n  (q/defsketch game\n               :title \&quot;PingPong\&quot;\n               :size [800 600]\n               :setup gamesetup\n               :draw draw\n               :update gameupdate\n               :features [:keep-on-top]\n               :middleware [m/fun-mode])\n\n\n  )&quot;, :offset 344, :ns &quot;clienttest.game&quot;} {:command &quot;(ns clienttest.game\n  (:require [quil.core :as q]\n            [quil.middleware :as m]\n            [clienttest.gamestats :as gamestats]\n            [clj-http.client :as client])\n  (:import\n    (java.io PrintWriter InputStreamReader BufferedReader)\n    (java.net Socket)))\n\n(def moo (atom {:a 1}))\n\n(defn convertfromstring\n  [content]\n  )\n\n(def mock-state\n  '({:role \&quot;player\&quot; :type \&quot;entity\&quot; :color 255 :x 20 :y 100 :velX 6 :velY 6}\n     {:role \&quot;ball\&quot; :type \&quot;object\&quot; :color 255 :x 200 :y 200 :velX 5 :velY 5}\n     {:role \&quot;enemy\&quot; :type \&quot;entity\&quot; :color 255 :x 760 :y 200 :velX 6 :velY 6}\n     {:role \&quot;score\&quot; :type \&quot;logic\&quot; :player1 0 :player2 0}))\n\n\n(defn writescore\n  [state]\n  (let [player1score (:player1 state)\n        player2score (:player2 state)\n        player1 (if gamestats/aipower\n                  \&quot;Nadal\&quot;\n                  \&quot;Player\&quot;)]\n    (q/text (str player1 \&quot;   \&quot; player1score \&quot;        |        \&quot; player2score \&quot;   Mr AI\&quot;) 350 50)\n    )\n  )\n\n(defn writeballspeed\n  [state]\n  (let [velX (:velX state)\n        velY (:velY state)\n        rawspeed (Math/sqrt (+ (* velX velX) (* velY velY)))\n        speed (int (Math/floor rawspeed))]\n    (q/text (str \&quot;speed:  \&quot; speed) 400 90)\n    ;(q/text (str \&quot;SpeedY: \&quot; velY \&quot;   speedX: \&quot; velX) 400 110)\n    ))\n\n(defn drawplayer\n  [state]\n  (let [x (:x state)\n        y (:y state)\n        color (:color state)]\n    (q/fill color 255 255)\n    (q/rect x y (first gamestats/playerSize) (second gamestats/playerSize))\n    )\n  )\n\n(defn httpupdate\n  []\n\n  (clojure.edn/read-string (str (:body (client/get \&quot;http://127.0.0.1:8082/showgame\&quot;))))\n  )\n\n(defn readsocket\n  [socket]\n  (let [reader (BufferedReader. (InputStreamReader. (.getInputStream socket)))\n        rawlist (.readLine reader)\n        statelist (clojure.edn/read-string (str rawlist))]\n    (conj statelist {:server socket})\n    ))\n\n(defn drawball\n  [state]\n  ;Draw baaaaaaalll\n  (let [x (:x state)\n        y (:y state)\n        color (:color state)\n        velX (Math/sqrt (Math/pow (:velX state) 2))\n        velY (:velY state)]\n\n    (dorun  (cond\n              (&gt; 15 velX) (q/fill  0 255 255)\n              (and (&lt;= 15 velX) (&gt; 10 velX)) (q/fill 0 125 255)\n              (and (&lt;= 10 velX) (&gt; 4 velX)) (q/fill 0 0 255)\n              :else (q/fill 0 0 0))\n            (q/rect x y (first gamestats/ballsize) (second gamestats/ballsize))\n            )))\n\n(defn draw\n  [statelist]\n  ;map through the list of states, and draw them. and returns the updated list. DOrun is there to make the lazy map do stuff\n  (q/clear)\n  (dorun (map (fn [state] (let [role (:role state)]\n                            (cond (= \&quot;ball\&quot; role) (do (drawball state) (writeballspeed state))\n                                  (= \&quot;player\&quot; role) (drawplayer state)\n                                  (= \&quot;enemy\&quot; role) (drawplayer state)\n                                  (= \&quot;score\&quot; role) (writescore state)))\n                ) statelist))\n  )\n(defn gameupdate\n  [_]\n  #_(let [socket (first (filter (fn [state] (= \&quot;server\&quot; (:role state))) statelist))\n        statelist (readsocket socket)]\n    statelist\n  )\n  (httpupdate)\n\n  )\n\n(defn gamesetup\n  []\n  (do (q/frame-rate 120)\n      (q/color-mode :hsb))\n\n  gamestats/mock-state\n  )\n\n\n(defn client_game_start\n  [_]\n  #_(swap! moo (fn [_] statelist))\n  (println @moo)\n  (q/defsketch game\n               :title \&quot;PingPong\&quot;\n               :size [800 600]\n               :setup gamesetup\n               :draw draw\n               :update gameupdate\n               :features [:keep-on-top]\n               :middleware [m/fun-mode])\n\n\n  )&quot;, :offset 3534, :ns &quot;clienttest.host&quot;} {:command &quot;(client_game_start)&quot;, :offset 18, :ns &quot;clienttest.host&quot;} {:command &quot;(ns clienttest.host\n  (:require [clojure.java.io :as io]\n            [clienttest.game :as game]\n            [clj-http.client :as client])\n  (:import\n    (java.io PrintWriter InputStreamReader BufferedReader)\n    (java.net Socket)))\n\n(def freenode {:name \&quot;irc.freenode.net\&quot; :port 6667})\n(def user {:name \&quot;Nurullah Akkaya\&quot; :nick \&quot;nakkaya\&quot;})\n\n(declare conn-handler)\n\n(defn connect []\n  (let [socket (Socket. \&quot;127.0.0.1\&quot; 9000)\n        in (BufferedReader. (InputStreamReader. (.getInputStream socket)))\n        out (PrintWriter. (.getOutputStream socket))\n        conn (ref {:in in :out out :socket socket})]\n    (doto (Thread. ^Runnable (conn-handler socket)) (.start))\n    conn))\n#_(Thread. #(conn-handler conn))\n(defn write [conn msg]\n  (doto (:out @conn)\n    (.println (str msg \&quot;\\r\&quot;))\n    (.flush)))\n\n(defn conn-handler [socket]\n       (let [reader (BufferedReader. (InputStreamReader. (.getInputStream socket)))\n             rawlist (.readLine reader)\n             statelist (clojure.edn/read-string (str rawlist))\n             updatedlist (conj statelist socket)]\n         (game/client_game_start updatedlist)\n         ))\n\n(defn login [conn user]\n  (write conn (str \&quot;NICK \&quot; (:nick user)))\n  (write conn (str \&quot;USER \&quot; (:nick user) \&quot; 0 * :\&quot; (:name user))))\n\n(defn connect2\n  []\n  (:body (client/get \&quot;http://127.0.0.1:8082/showgame\&quot;))\n  (clojure.edn/read-string (str rawlist))\n  )\n\n\n(defn -main\n  []\n  (game/client_game_start x))&quot;, :offset 1426, :ns &quot;clienttest.host&quot;} {:command &quot;(defn -main\n  []\n  (game/client_game_start x))&quot;, :offset 46, :ns &quot;clienttest.host&quot;} {:command &quot;(defn -main\n  []\n  (game/client_game_start \&quot;\&quot;))&quot;, :offset 47, :ns &quot;clienttest.host&quot;} {:command &quot;(ns clienttest.host\n  (:require [clojure.java.io :as io]\n            [clienttest.game :as game]\n            [clj-http.client :as client])\n  (:import\n    (java.io PrintWriter InputStreamReader BufferedReader)\n    (java.net Socket)))&quot;, :offset 231, :ns &quot;clienttest.host&quot;} {:command &quot;(-main)&quot;, :offset 6, :ns &quot;clienttest.host&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lein" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="clienttest" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46624b21-dd65-45c2-b692-3fd849f5af78" name="Default Changelist" comment="" />
+      <created>1551010922071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551010922071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2062" height="1126" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1013986" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23138833" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" anchor="right" id="REPL" order="6" side_tool="true" visible="true" weight="0.16133866" />
+      <window_info anchor="right" id="Leiningen" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.9.0/clojure-1.9.0.jar!/clojure/java/io.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2591">
+          <caret line="390" column="18" selection-start-line="390" selection-start-column="18" selection-end-line="390" selection-end-column="18" />
+          <folding>
+            <element signature="e#3008#3009#0" expanded="true" />
+            <element signature="e#3055#3056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clienttest/core.clj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clienttest/gamestats.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clienttest/host.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clienttest/game.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
